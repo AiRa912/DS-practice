@@ -1,0 +1,24 @@
+This project focuses on analyzing diabetes data to predict the likelihood of diabetes and evaluate the performance of different machine learning models. The key aspects of the project are as follows:
+
+Data Preparation:
+
+Initial Data Cleaning: Assessed data for missing values and dropped rows with missing data to ensure the quality of analysis.
+Target Variable Encoding: Converted diabetes status into binary values (0 for Negative, 1 for Positive) for model training.
+Data Visualization:
+
+Distribution of Target Variable: Visualized the distribution of diabetes cases using pie charts and bar plots to show the proportion of positive and negative cases.
+Gender Distribution: Analyzed how diabetes status varies across different genders with a count plot.
+Symptom Distribution: Created pie charts to illustrate the prevalence of various symptoms related to diabetes.
+
+Feature Analysis:
+Symptom Analysis: Plotted pie charts for each symptom to understand their distribution among patients.
+Model Training and Evaluation:
+
+Model Training: Used Logistic Regression and Random Forest classifiers to predict diabetes.
+Model Evaluation: Evaluated model performance with metrics such as accuracy, precision, recall, F1 score, and ROC-AUC.
+ROC Curve Analysis: Plotted ROC curves for Logistic Regression and Random Forest to compare their performance in distinguishing between positive and negative diabetes cases. Calculated the Area Under the Curve (AUC) to quantify model performance.
+Results:
+
+Provided a detailed evaluation of the models’ performance and visualized the results through various plots, including ROC curves and bar charts.
+This project demonstrates the use of data visualization and machine learning techniques to analyze and predict diabetes, offering insights into model performance and feature significance.
+
