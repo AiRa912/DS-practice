@@ -1,0 +1,19 @@
+This project explores interactions between Marvel characters across different comics, using data visualization and network analysis techniques.
+
+Data Cleaning:
+Missing Values: Checked for and handled missing values by dropping rows with missing data.
+Duplicates: Removed duplicate entries to ensure data integrity.
+Character Interaction Distribution:
+
+Interaction Counting: Counted the number of interactions (appearances) for each Marvel character in the dataset.
+Visualization: Plotted the top 10 Marvel characters by the number of comic appearances using a bar chart to illustrate the most prominent characters.
+Network Analysis:
+
+Graph Creation: Generated a graph of character interactions using NetworkX and Pyvis.
+Network Visualization: Created an interactive network visualization to show connections between characters and comics. Nodes represent characters and comics, with customized properties for better clarity.
+Heatmap Visualization:
+
+Top Characters and Comics: Focused on the top 100 characters and comics based on interaction counts.
+Interaction Matrix: Constructed an interaction matrix and visualized it using a heatmap to show the intensity of interactions between the top characters and comics.
+This project highlights the use of data cleaning, network analysis, and advanced visualization techniques to analyze and visualize the interactions between Marvel characters.
+
