@@ -1,0 +1,12 @@
+This project involves comprehensive analysis and visualization of COVID-19 data across various countries. Key aspects include:
+
+Data Cleaning and Preprocessing: Handled missing values and cleaned data to ensure accuracy and reliability.
+Aggregation: Aggregated data by country to calculate total confirmed cases, deaths, and recoveries. Calculated rates such as deaths per 100 cases and recoveries per 100 cases.
+Visualization: Created visualizations to provide insights into the data:
+Top Countries by Total Cases: Visualized total confirmed, deaths, and recovered cases for the top 10 countries.
+Death and Recovery Rates: Plotted deaths and recoveries per 100 cases for the top 10 countries.
+Active Cases: Identified and visualized the top 10 countries with the highest active cases.
+Trends Over Time: Plotted new cases and new deaths over time to observe trends.
+Country-Specific Data: Compared data for selected countries to understand their COVID-19 impact.
+Maximum Infection Rate: Identified the country with the highest number of confirmed cases.
+This analysis provides a clear view of the impact of COVID-19 across different countries and helps in understanding trends and patterns in the pandemic.
