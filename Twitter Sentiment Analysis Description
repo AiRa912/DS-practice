@@ -1,0 +1,9 @@
+This project analyzes Twitter sentiment related to various airlines using natural language processing (NLP) techniques. Key aspects include:
+
+Data Cleaning: Removal of duplicates, irrelevant content, and handling missing values.
+Sentiment Analysis: Application of NLP techniques to classify tweets into positive, negative, or neutral sentiments.
+Visualization: Creation of insightful visualizations to present the sentiment distribution across different airlines and trends over time.
+Machine Learning: Implementation of classification models to predict tweet sentiment based on content.
+
+The project showcases the sentiment distribution towards various airlines, highlighting key areas of customer concern and satisfaction. 
+Insights derived can be leveraged by airlines to enhance their customer service strategies.
